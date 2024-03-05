@@ -25,4 +25,4 @@ cargo build
 ## 輸出
 程式將在資料夾產生一個預設名稱為 `distribution.png` 的圖片。
 可以透過調整輸入參數來產生不同結果的圖片。
-![image](https://github.com/smiti1642/rust-simple-distribution/blob/master/distribution.png)
+![image](https://github.com/smiti1642/rust-simple-distribution/blob/main/distribution.png)
